@@ -20,7 +20,7 @@ A responsive and visually engaging web application that allows users to check th
 
 ## 🚀 Live Demo
 
-> 🔗 [View the Live Site](https://your-github-username.github.io/weather-dashboard/)  
+> 🔗 [View the Live Site](https://github.com/patelaayush11330/Weather-dashboard.git)  
 
 
 
@@ -29,7 +29,7 @@ A responsive and visually engaging web application that allows users to check th
 To run this project locally:
 
 # Clone the repository
-git clone https://github.com/your-username/weather-dashboard.git
+git clone https://github.com/patelaayush11330/Weather-dashboard.git
 
 # Navigate to the project folder
 cd weather-dashboard
